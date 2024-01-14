@@ -1,5 +1,6 @@
 {
   "name": "ncc",
+  "homepage": "https://hrishicodess.github.io/ncc",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
