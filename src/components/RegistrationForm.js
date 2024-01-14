@@ -107,7 +107,7 @@ const RegistrationForm = () => {
   
         <button type="submit">Register</button>
     
-      
+      <h3>This is MERN stack based registration portal </h3>
     
       </form>
     );
