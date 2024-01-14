@@ -100,7 +100,7 @@ const RegistrationForm = () => {
         <input
           type="file"
           accept=".pdf"
-          onChange={setPdfFile}
+          onChange={setPdfFile , handleFileChange}
           required
         />
       </label>
